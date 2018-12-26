@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://www.helloadx.com/"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "HelloAdx" => "helloadx@helloadx.com" }
-  s.source       = { :git => "https://github.com/changexie/HelloAdxSDKPodsTest.git", :tag => "s.version.to_s" }
+  s.source       = { :git => "https://github.com/changexie/HelloAdxSDKPodsTest.git", :tag => s.version.to_s }
   s.requires_arc = true  
   s.platform     = :ios
 
