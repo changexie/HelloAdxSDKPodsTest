@@ -1,0 +1,6 @@
+framework module HelloAdxSDK {
+  umbrella header "HelloAdxSDK.h"
+
+  export *
+  module * { export * }
+}
