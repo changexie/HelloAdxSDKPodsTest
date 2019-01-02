@@ -13,9 +13,9 @@ HelloAdxSDKSample | 否 | 样例代码
 #### 第二步：加入库文件
 将HelloAdxSDK.framework放入工程中, 并且在`TARGETS`-`General`-`Embedded Binaries`和`Linked Frameworks and Libraries`完成配置，配置完成后如下图所示。
 
-![HelloAdxSDK.framework配置图片001](/Users/bltech/Desktop/img_001.png)
+![HelloAdxSDK.framework配置图片001](https://github.com/changexie/HelloAdxSDKPodsTest/blob/master/HelloAdxSDKPodsTest/assets/screen_shot_001.png)
 
-![HelloAdxSDK.framework配置图片002](/Users/bltech/Desktop/img_002.png)
+![HelloAdxSDK.framework配置图片002](https://github.com/changexie/HelloAdxSDKPodsTest/blob/master/HelloAdxSDKPodsTest/assets/screen_shot_002.png)
 
 #### 第三步：Info.plist配置
 * http请求支持权限<font color="#AE1916">（必须配置）</font> 
